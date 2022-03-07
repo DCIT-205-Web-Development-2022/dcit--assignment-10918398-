@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head></head>
+<title><h1>BIOGRAPHY</h1></title>
+
+        <body>My name is sefah Ofori.
+           <p>I am 21 years of age .</p>
+           <p>I am from a family of five</p>
+            <p> I am 1.9 feet tall and dark in complexion.</p>
+            <p> I am a Level 200 studying Information Technology in the University of Ghana.</p>
+            <p> I am a Ghanaian from Akuapem-Akropong. .</p>
+            <p> My hobby if Playing football and also Playing of Video Games .</p>
+            <p>Am interested in Programming and gaming .</p>
+            <p>My favourate food is banku with hot sauce and fried Fish.</p>
+            <img class="img-responsive" src="SEFAH.jpg" alt="Thumb otk1nzauanbn" 
+            width= "400"
+            height="500"  />
+            
+               
+            <h1>Schools Attended and Course of study</h1>
+            
+            <table style = "width= 100px"border ="2px">
+
+
+
+                <tr>
+        
+                        <th>Name of school </th>
+                        <th>Course of study </th>
+                        <th>Year of study </th>
+                </tr>
+                <tr>
+                        <td>Wesley International </td>
+                        <td>Otained BECE Certificate</td>
+                        <td>2014 - 2017</td>
+                </tr>
+                <tr>
+                        <td>Pentecost Senior High</td>
+                        <td>General Arts</td>
+                        <td>2017- 2020</td>
+        
+                </tr>
+                <tr>
+                        <td>University of Ghana </td>
+                        <td>Information Technology</td>
+                        <td>2020</td>
+                </tr>
+
+            </table>
+                <br>
+        </div>
+        <h3>Fill The Student Detail Form Below</h3>
+       <body>
+       <div class="wrapper">
+         <section class="form login">
+           <header></header>
+           <form action="#" method="POST" enctype="multipart/form-data" autocomplete="off">
+             <div class="error-text"></div>
+             <div class="field input">
+               <label>NAME</label>
+               <input type="text" name="name" placeholder="Enter your name" required>
+             </div>
+              <br>
+                <i cla ss="fas fa-eye"></i>
+                 </div>
+             <label>Email</label>
+             <input type="text" name="email" placeholder="Enter your email" required>
+           </div>
+           <br>
+           <br>
+           <label>Age</label>
+           <input type="text" name="age" placeholder="Enter your age" required>
+         </div>
+           <br>
+           <br>
+           <label>Telephone</label>
+           <input type="text" name="Telephone" placeholder="Enter your number" required>
+         </div>
+           <br>
+           <br>
+           <div class="field input">
+           <label>Password</label>
+           <input type="password" name="password" placeholder="Enter your password" required>
+           </div>
+           <br>
+           <br>
+           <label for="ID">Choose a ID-type:</label>
+           <select name="ID" id="ID">
+           <option value="Studen ID">Student ID</option>
+           <option value="Ghana Card">Ghana Card</option>
+            <option value="NHIS Card">NHIS Card</option>
+           </select>
+           </div>
+           <br>
+           <br>
+           <label>ID Number</label>
+           <input type="text" name="ID number" placeholder="Enter your ID num" required>
+           </div>
+           <br>
+           <h1>GENDER</h1>
+           <input type="radio" name="gender" value="male"> Male<br>
+           <input type="radio" name="gender" value="female"> Female<br>
+           <input type="radio" name="gender" value="other"> Other
+            <br>
+            <br>
+             <div class="field button">
+               <input type="submit" name="submit" value="submit">
+             </div>
+           </form>
+         </section>
+       </div>
+   </div>
+   </div>
+        
+            
+                         
+
+                        </body>
+<html>
